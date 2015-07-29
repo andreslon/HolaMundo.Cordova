@@ -1,0 +1,1 @@
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\CordovaApp.Phone.jsproj;x86

@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>HolaMundo.Cordova</title>
+    <!-- Referencias de HolaMundo.Cordova -->
+    <link href="css/index.css" rel="stylesheet" />
+    <style>
+        body {
+            font-size: 1em;
+        }
+    </style>
+    <script>
+        function print() {
+            var result = document.getElementById("MyText").value;
+            document.getElementById("Result").innerHTML = result;
+        }
+    </script>
+    <link href="css/jquery-ui.css" rel="stylesheet" type="text/css" />
+</head>
+<body style="text-align:center; background-color:#f2f2f2">
+    <div class="container">
+        <h1>Andreslon</h1>
+        <input style="width:80%" id="MyText" class="ui-button">
+        <div>
+            <br />
+            <input class="ui-button" type="submit" onclick="print();" value="Imprimir" />
+        </div>
+        <h2 id="Result">Resultado</h2>
+    </div>
+    <!-- Referencia de Cordova que se agrega a la aplicación cuando se compila. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+
+    <script src="scripts/index.js"></script>
+
+
+    <script src="scripts/jquery.js"></script>
+    <!--<script src="scripts/jquery-1.10.2.min.js"></script>-->
+    <script src="scripts/jquery-ui.min.js"></script>
+
+</body>
+</html>

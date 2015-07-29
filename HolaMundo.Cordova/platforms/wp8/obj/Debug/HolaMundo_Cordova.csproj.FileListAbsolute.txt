@@ -1,0 +1,14 @@
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\Background.png
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\io.cordova.myapp614f60.dll
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\io.cordova.myapp614f60.pdb
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\App.g.cs
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\io.cordova.myapp614f60.g.resources
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\io.cordova.myapp614f60.dll
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\io.cordova.myapp614f60.pdb
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\wp8\obj\Debug\XapCacheFile.xml

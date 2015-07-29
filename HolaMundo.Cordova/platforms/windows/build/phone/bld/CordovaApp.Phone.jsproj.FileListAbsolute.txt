@@ -1,0 +1,17 @@
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\debug\x86\resources.pri
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\debug\x86\AppxManifest.xml
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\debug\x86\CordovaApp.Phone.build.appxrecipe
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\priconfig.xml
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\layout.resfiles
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\resources.resfiles
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\pri.resfiles
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\qualifiers.txt
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\package.map.txt
+D:\Repos\HolaMundo.Cordova\HolaMundo.Cordova\platforms\windows\build\phone\bld\_pkginfo.txt
